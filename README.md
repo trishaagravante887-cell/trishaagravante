@@ -236,7 +236,7 @@ footer{
   <a href="#projects">Projects</a>
   <a href="#certificate">Certificates</a>
   <a href="#contact">Contact</a>
-  <a href="resume.pdf" target="_blank">Resume</a>
+  <a href="https://sg.docworkspace.com/d/sbCaibvz90uh1jBN_enw9ujs5ynkharox6r?sa=601.1037" target="_blank">Resume</a>
 </nav>
 
 <header id="home">
